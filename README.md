@@ -5,7 +5,7 @@
 > <sup>1</sup>The Chinese University of Hong Kong, <sup>2</sup>University of Wisconsin-Madison <br>
 
 <p align="center">
-<img src="docs/teaser_figure.jpg" width=97% height=97%
+<img src="docs/teaser_figure.jpg" width=50% height=50%
 class="center">
 </p>
 
