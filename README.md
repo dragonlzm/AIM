@@ -1,6 +1,6 @@
 # AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning
 
-> **AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning** [[Paper](https://github.com/LaVi-Lab/AIM)] <br>
+> **AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning** [[Paper](https://arxiv.org/abs/2412.03248)] <br>
 > [Yiwu Zhong](https://scholar.google.com/citations?user=irrbH_IAAAAJ&hl=en)<sup>1</sup>, [Zhuoming Liu](https://scholar.google.com/citations?user=HXOVwRAAAAAJ&hl=en)<sup>2</sup>, [Yin Li](https://www.biostat.wisc.edu/~yli/)<sup>2</sup>, [Liwei Wang](https://lwwangcse.github.io/)<sup>#1</sup> <br>
 > <sup>1</sup>The Chinese University of Hong Kong, <sup>2</sup>University of Wisconsin-Madison <br>
 > (<sup>#</sup> corresponding author) <br>
@@ -23,6 +23,13 @@ Large language models (LLMs) have enabled the creation of multi-modal LLMs that 
 ## Citation
 
 If you find this repo useful, please consider citing our paper:
+
+@article{zhong2024aim,
+  title={AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning},
+  author={Zhong, Yiwu and Liu, Zhuoming and Li, Yin and Wang, Liwei},
+  journal={arXiv preprint arXiv:2412.03248},
+  year={2024}
+}
 
 
 ## Acknowledgement
