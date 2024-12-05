@@ -23,14 +23,14 @@ Large language models (LLMs) have enabled the creation of multi-modal LLMs that 
 ## Citation
 
 If you find this repo useful, please consider citing our paper:
-
+```bibtex
 @article{zhong2024aim,
   title={AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning},
   author={Zhong, Yiwu and Liu, Zhuoming and Li, Yin and Wang, Liwei},
   journal={arXiv preprint arXiv:2412.03248},
   year={2024}
 }
-
+```
 
 ## Acknowledgement
 
