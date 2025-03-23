@@ -76,7 +76,7 @@ bash run.sh
 The key file is `analyze_flex_prefill_only.py`, where you can specify the number of initial visual tokens, the number of text tokens, and the scheduler for pruning tokens across LLM layers.
 
 ### Notes
-- Core implementations: Our method consists of similarity-based token merging and importance-based token pruning. Token merging is applied before feeding them into LLMs ([llava_arch.py](https://github.com/LaVi-Lab/AIM/blob/main/llava/model/llava_arch.py])), while token pruning is applied within LLM layers ([modeling_qwen2.py](https://github.com/LaVi-Lab/AIM/blob/main/other_packages/transformers/src/transformers/models/qwen2/modeling_qwen2.py])). Their implementations are modular and easy to be adapted for different multi-modal LLMs with various architectures. For example, simply copy-paste the code segments should generally work.
+- Core implementations: Our method consists of similarity-based token merging and importance-based token pruning. Token merging is applied before feeding them into LLMs ([llava_arch.py](https://github.com/LaVi-Lab/AIM/blob/main/llava/model/llava_arch.py)), while token pruning is applied within LLM layers ([modeling_qwen2.py](https://github.com/LaVi-Lab/AIM/blob/main/other_packages/transformers/src/transformers/models/qwen2/modeling_qwen2.py)). Their implementations are modular and easy to be adapted for different multi-modal LLMs with various architectures. For example, simply copy-paste the code segments should generally work.
 
 
 ## Citation
