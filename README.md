@@ -69,7 +69,7 @@ In `video_bench_eval.sh`, you can remove `attn_implementation=eager` for disabli
 We also provide the scripts for calculating the FLOPs and Prefill Time of our method AIM：
 
 ```bash
-cd LLM-Viewer
+cd other_packages/LLM-Viewer
 bash run.sh
 ```
 

@@ -1,6 +1,6 @@
 # LLM-Viewer
 
-The code is adapted from LLM-Viewer(https://github.com/hahnyuan/LLM-Viewer) with minimum modification on script interface.
+The code is adapted from LLM-Viewer(https://github.com/hahnyuan/LLM-Viewer) with minimum modification on function interface.
 
 Run `bash run.sh` to calculate the FLOPs and prefill time of our default inference configuration. 
 
